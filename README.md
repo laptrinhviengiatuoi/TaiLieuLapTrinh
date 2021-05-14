@@ -1,4 +1,4 @@
-# TaiLieuLapTrinhTiengVietFree
+# Tài Liệu Lập Trình
 
 Tiếng Việt nếu thấy kênh nào nói chậm, gây buồn ngủ các anh cứ để tốc độ lên 1.25 hay 1.5
 
